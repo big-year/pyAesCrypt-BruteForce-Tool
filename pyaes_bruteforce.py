@@ -275,7 +275,6 @@ def print_banner():
     
 {Colors.END}{Colors.YELLOW}    [*] 支持字典攻击、暴力破解、掩码攻击
     [*] 多线程并发处理，高效快速
-    [*] 类似Kali工具的简单界面
 {Colors.END}
 """
     print(banner)
