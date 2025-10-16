@@ -1,0 +1,1 @@
+pyAesCrypt>=3.0.0
